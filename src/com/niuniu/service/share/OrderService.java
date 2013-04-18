@@ -1,4 +1,4 @@
-package com.niuniu.service.server;
+package com.niuniu.service.share;
 
 /**
  * ¶©µ¥·þÎñ
@@ -6,5 +6,5 @@ package com.niuniu.service.server;
  *
  */
 public interface OrderService {
-
+	
 }
